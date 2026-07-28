@@ -14,5 +14,3 @@ A simple console-based Car Rental System developed using Java and Object-Oriente
 - OOP
 - Eclipse IDE
 
-## Author
-Arpitha C
